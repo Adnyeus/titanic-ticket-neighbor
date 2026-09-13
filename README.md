@@ -98,7 +98,7 @@ titanic-ticket-neighbor/
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/[Your-GitHub-Username]/titanic-ticket-neighbor.git
+   git clone https://github.com/Adnyeus/titanic-ticket-neighbor.git
    cd titanic-ticket-neighbor
 2. Install dependencies:
    pip install -r requirements.txt
