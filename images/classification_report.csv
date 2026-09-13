@@ -1,0 +1,6 @@
+,Precision,Recall,F1-score,Support
+Deceased (0),0.8579,0.9126,0.8844,549
+Survived (1),0.8436,0.7573,0.7982,342
+Accuracy,0.853,0.853,0.853,0.853
+Macro Avg,0.8508,0.8349,0.8413,891
+Weighted Avg,0.8524,0.853,0.8513,891
