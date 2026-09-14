@@ -111,7 +111,7 @@ titanic-ticket-neighbor/
 
 ## 📝 Author
 Ebad Naeem
-[Github](https://github.com/Adnyeus) | [LinkedIn](https://www.linkedin.com/in/ebad-naeem-7984522b8)
+[Github](https://github.com/Adnyeus) | [LinkedIn](https://www.linkedin.com/in/ebad-naeem-7984522b8) | [Portfolio](https://poised-plutonium-331.notion.site/Project-Portfolio-3d1d274aed4c8058a670c2b92fd28d2f)
 
 ## 🙏 Acknowledgments
 - Kaggle for providing the dataset and platform.
